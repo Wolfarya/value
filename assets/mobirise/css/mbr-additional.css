@@ -1783,6 +1783,9 @@ body {
 .cid-qTkA127IK8 .mbr-section-btn I {
   color: #efefef;
 }
+.cid-r7rgdTg9UA {
+  background-color: #232323;
+}
 .cid-r7rf7sdMFU {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2258,9 +2261,4 @@ body {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-r7rfYEB36r {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
 }
