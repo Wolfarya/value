@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "secret.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 5,
+    "uniqCompNum": 7,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -498,7 +498,7 @@
       "settings": {
         "meta_descr": "You find this message, I'm proud of you Hero !\nHere your reward : https://mega.nz/#!BQ9FkITS\nI give you a part of the Goddess power, this file allow you to change the settings of the Master-Key\n\nYou can change data of this file as youg as you respect the rules.\nYou can change it whenever you want and as you want.\nWhen you are done with your changes, send the file to me. (or just a screen)",
         "title": "Secret Message",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
