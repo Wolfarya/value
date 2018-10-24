@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "false.html",
+    "currentPage": "secret.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -42,7 +42,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "false.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "[FEH] Łady Clair Society",
@@ -494,7 +494,7 @@
         }
       ]
     },
-    "true.html": {
+    "secret.html": {
       "settings": {
         "meta_descr": "You find this message, I'm proud of you Hero !\nHere your reward : https://mega.nz/#!BQ9FkITS\nI give you a part of the Goddess power, this file allow you to change the settings of the Master-Key\n\nYou can change data of this file as youg as you respect the rules.\nYou can change it whenever you want and as you want.\nWhen you are done with your changes, send the file to me. (or just a screen)",
         "title": "Secret Message",
